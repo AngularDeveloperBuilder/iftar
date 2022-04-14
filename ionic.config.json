@@ -1,0 +1,7 @@
+{
+  "name": "Iftar Ramadan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
